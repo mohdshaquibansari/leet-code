@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mohdshaquibansari/leet-code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohdshaquibansari/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/mohdshaquibansari/leet-code/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohdshaquibansari/leet-code/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mohdshaquibansari/leet-code/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,8 +22,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohdshaquibansari/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/mohdshaquibansari/leet-code/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mohdshaquibansari/leet-code/tree/master/0009-palindrome-number) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mohdshaquibansari/leet-code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mohdshaquibansari/leet-code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
