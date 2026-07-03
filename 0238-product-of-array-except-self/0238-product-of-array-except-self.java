@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         int[] ans = new int[n];
 
-        // prefix product
+       
         ans[0] = 1;
 
         for(int i = 1; i < n; i++){
@@ -11,7 +11,7 @@ class Solution {
         }
 
 
-        // suffix product
+        
         int suffix = 1;
 
         for(int i = n-2; i >= 0; i--){
