@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohdshaquibansari/leet-code/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mohdshaquibansari/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/mohdshaquibansari/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohdshaquibansari/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mohdshaquibansari/leet-code/tree/master/0268-missing-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mohdshaquibansari/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohdshaquibansari/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mohdshaquibansari/leet-code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mohdshaquibansari/leet-code/tree/master/0067-add-binary) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdshaquibansari/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mohdshaquibansari/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
