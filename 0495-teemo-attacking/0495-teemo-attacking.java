@@ -10,7 +10,7 @@ class Solution {
                total += duration;
             }
         }
-        
-        return total += duration;
+        total += duration;
+        return total;
     }
 }
