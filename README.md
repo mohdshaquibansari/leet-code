@@ -137,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohdshaquibansari/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/mohdshaquibansari/leet-code/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
