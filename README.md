@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdshaquibansari/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohdshaquibansari/leet-code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2965-find-missing-and-repeated-values](https://github.com/mohdshaquibansari/leet-code/tree/master/2965-find-missing-and-repeated-values) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohdshaquibansari/leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/mohdshaquibansari/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohdshaquibansari/leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mohdshaquibansari/leet-code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohdshaquibansari/leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/mohdshaquibansari/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mohdshaquibansari/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdshaquibansari/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohdshaquibansari/leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mohdshaquibansari/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohdshaquibansari/leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mohdshaquibansari/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohdshaquibansari/leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/mohdshaquibansari/leet-code/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/mohdshaquibansari/leet-code/tree/master/0495-teemo-attacking) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohdshaquibansari/leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -151,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohdshaquibansari/leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohdshaquibansari/leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
