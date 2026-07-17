@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mohdshaquibansari/leet-code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mohdshaquibansari/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mohdshaquibansari/leet-code/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/mohdshaquibansari/leet-code/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/mohdshaquibansari/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/mohdshaquibansari/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mohdshaquibansari/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/mohdshaquibansari/leet-code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mohdshaquibansari/leet-code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mohdshaquibansari/leet-code/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/mohdshaquibansari/leet-code/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/mohdshaquibansari/leet-code/tree/master/0344-reverse-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohdshaquibansari/leet-code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String Matching
