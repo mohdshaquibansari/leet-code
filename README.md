@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohdshaquibansari/leet-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mohdshaquibansari/leet-code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/mohdshaquibansari/leet-code/tree/master/0268-missing-number) |
+| [1952-three-divisors](https://github.com/mohdshaquibansari/leet-code/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohdshaquibansari/leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/mohdshaquibansari/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohdshaquibansari/leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -156,9 +157,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/mohdshaquibansari/leet-code/tree/master/1291-sequential-digits) |
+| [1952-three-divisors](https://github.com/mohdshaquibansari/leet-code/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/mohdshaquibansari/leet-code/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohdshaquibansari/leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohdshaquibansari/leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohdshaquibansari/leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
